@@ -11,3 +11,7 @@ img{
 p{
     text-align: justify;
 }
+
+li{
+    text-decoration: underline;
+}
